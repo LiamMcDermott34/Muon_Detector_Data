@@ -1,0 +1,2 @@
+Date,Time,BMP390_Pressure(hPa),Online_Temp(C),Online_Pressure(hPa),Online_Humidity(%)
+2026-11-12,00:00:26,981.57,7.24,1008.00,93.00
